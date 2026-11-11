@@ -1,0 +1,33 @@
+{
+    "team_name": "The Night riders",
+    "students": [
+        {
+            "student_id": "K12453145",
+            "first_name": "Mohamed",
+            "last_name": "Abouelnasr",
+            "email": "me.elsebaiee@gmail.com",
+            "github_user": "MuhammadEssam77"
+        },
+        {
+            "student_id": "K12455990",
+            "first_name": "Hassan",
+            "last_name": "Gasser",
+            "email": "",
+            "github_user": ""
+        },
+        {
+            "student_id": "K12453150",
+            "first_name": "Youssef",
+            "last_name": "Hamad",
+            "email": "y.mohamedhosni@gmail.com",
+            "github_user": "ymohamedhosni"
+        },
+        {
+            "student_id": "K12438432",
+            "first_name": "Ahmed",
+            "last_name": "Bakkar",
+            "email": "",
+            "github_user": ""
+        }
+    ]
+}

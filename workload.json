@@ -1,0 +1,25 @@
+{
+    "team_name": "The Night riders",
+    "students": [
+        {
+            "first_name": "Mohamed",
+            "last_name": "Abouelnasr",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Hassan",
+            "last_name": "Gasser",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Youssef",
+            "last_name": "Hamad",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Ahmed",
+            "last_name": "Bakkar",
+            "workload": 0.25
+        }
+    ]
+}
